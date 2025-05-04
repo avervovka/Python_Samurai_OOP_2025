@@ -1,1 +1,1 @@
-ETO PIZDEC BLYAT!!!!!
+New course Python_OOP_Samurai
